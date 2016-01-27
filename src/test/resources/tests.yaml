@@ -1,0 +1,8 @@
+#service-mock host
+wiremock:
+  host: http://localhost
+
+#user context
+user:
+  login: lukaszroslonek
+  www: www.google.com
